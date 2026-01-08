@@ -86,14 +86,14 @@ flutter run
 
 ---
 
-## 🔮 Upcoming Improvements
+<!-- ## 🔮 Upcoming Improvements
 
 * MongoDB integration using Mongoose
 * Better UI and UX
-* State management (Provider / Riverpod)
+* State management (Provider)
 * Error handling & loaders
 
----
+--- -->
 
 ## 👨‍💻 Author
 
@@ -102,4 +102,3 @@ Flutter Developer | Backend Learner
 
 ````
 
----
