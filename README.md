@@ -16,6 +16,14 @@ This project demonstrates real-world CRUD operations and clean architecture.
 
 ---
 
+## Project 2 – Backend Setup
+
+### Progress (1/9/2026)
+- Node.js backend initialized
+- MongoDB installed locally
+- MongoDB connection successful
+- Environment variables configured
+
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -27,7 +35,8 @@ This project demonstrates real-world CRUD operations and clean architecture.
 - Node.js
 - Express.js
 - dotenv
-- REST APIs
+- REST APIs (1/8/2026)
+- MongoDB (Mongoose) (1/9/2026)
 
 ---
 

@@ -4,8 +4,11 @@ require('dotenv').config();
 const noteRoutes = require('./routes/noteRoutes');
 const errorHandler = require('./middlewares/errorMiddleware');
 const logger = require('./middlewares/loggerMiddleware');
+const connectDB = require('./config/db');
 
 const app = express();
+
+connectDB();
 
 app.use(cors());
 app.use(express.json());
